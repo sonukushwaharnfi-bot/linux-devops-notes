@@ -1,0 +1,19 @@
+------------------------------------Gsm Gateway------------------------------------------------
+
+[trunk-172]
+type=endpoint
+transport=transport-udp
+context=from-trunk
+disallow=all
+allow=ulaw,alaw
+aors=trunk-172
+
+[trunk-172]
+type=aor
+contact=sip:172.16.20.36
+
+[trunk-172]
+type=identify
+endpoint=trunk-172
+match=172.16.20.36
+
