@@ -1,0 +1,8 @@
+Script started on 2026-08-03 12:20:06+05:30 [<not executed on terminal>]
+This
+[?2004h]0;root@cipherdigi: /devops-practice/devops-60-Days/day1root@cipherdigi:/devops-practice/devops-60-Days/day1# This
+[?2004lThis: command not found
+[?2004h]0;root@cipherdigi: /devops-practice/devops-60-Days/day1root@cipherdigi:/devops-practice/devops-60-Days/day1# [?2004l
+exit
+
+Script done on 2026-08-03 12:20:07+05:30 [COMMAND_EXIT_CODE="127"]
